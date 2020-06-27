@@ -1,0 +1,47 @@
+#shapan-i{position: absolute;left: 0;top: 0;}
+#shapan-i .sha-dot { z-index: 999; position: absolute; white-space:nowrap;line-height: 26px;padding: 0 10px;outline: none;background: #FB841F;color: #fff;border-radius: 2px;}
+#shapan-i .sha-dot:hover{text-decoration: none;}
+#shapan-i .sha-dot i{position: absolute;left: 5px;top: 26px;height:0;width:0;overflow: hidden;border-color: #FB841F transparent transparent transparent;border-style: solid dashed dashed dashed;border-width:10px 10px 10px 0;position: absolute;}
+#shapan-i .sha-dot-81 {background: #3393F5;}
+#shapan-i .sha-dot-81 i{border-top-color: #3393F5;}
+#shapan-i .sha-dot-93 {background: #A9A9AA;}
+#shapan-i .sha-dot-93 i{border-top-color: #A9A9AA;}
+
+.sha-dot b{position: absolute;right: -10px;top: -10px;width:15px;height:15px;background: url(./bgimg/close-ico.png) 0 0 no-repeat;cursor: pointer;}
+.sha-dot b:hover{background-position: 0 bottom;}
+
+/*列表详细*/
+.maptck{width:390px;background:#fff;border:#e6e6e6 2px solid;padding:8px 10px 8px 15px;overflow:hidden;display: none}
+.mttitle{height:22px;line-height:22px;padding:5px 0 8px;}
+.mttitle dt{float:left;font-weight:bold;font-size:14px;color:#333;}
+.mttitle dd{cursor:pointer;float:right;width:13px;height:13px;background:url(../images/close_x.png) no-repeat;border:none;margin:5px 10px 0 0;}
+.mttitle dd a{display:block;width:13px;height:13px;}
+.mtalone{width:390px;border-top:#ccc 1px dotted;font-size:12px;overflow:hidden;}
+.mtalone ul{float:left;width:170px;padding:0 5px;overflow:hidden;height:36px;}
+.mtalone ul li{display:inline;float:left;line-height:36px;  overflow:hidden;}
+.mtaico{width:15px;height:15px;background:url(../images/mapico.gif) no-repeat;margin:10px 5px 0 0; }
+.mtaico.kpsj{background-position:0 -31px;}
+.mtaico.jfsj{background-position:-25px -31px;}
+.mtaico.dy{background-position:0 -47px;}
+.mtaico.cs{background-position:-25px -47px;}
+.mtaico.hs{background-position:0 -63px;}
+.mtaico.thpb{background-position:-25px -63px;}
+.mtaico.hx{background-position:0 -79px;}
+.mtmr24{margin-right:24px;}
+.mtnoinfor{height:30px;border-top:#ccc 1px dotted;padding:9px 0 10px;color:#666;}
+.mtnoinfor li{float:left;line-height:30px;}
+.mtniico{width:40px;height:30px;background:url(../images/mapico.gif) no-repeat 0 0;margin-right:10px;}
+.mapcsbs,.maphsbs{height:40px;}
+
+.mthx{width:390px;border-top:#ccc 1px dotted;font-size:12px;overflow:hidden;}
+.mthx dt{width:355px;padding:0 0 0 5px;overflow:hidden;}
+.mthx dt .wtafl{float:left;line-height:40px;overflow:hidden;}
+.mthx dt .more{float:right; height:40px; line-height:40px; margin-right:5px;}
+.mthx dd{width:100%;overflow:hidden;height: 222px; overflow-x:hidden; overflow-y: auto;position:relative; left:0; top:0;}
+.mthx dd ul{ width:360px; }
+.mthx dd ul li{border-bottom:#ccc 1px dotted;}
+.mthx dd ul li span{ float:left;width:85px;padding-left:5px;overflow:hidden; height:30px; }
+.mthx dd ul li a { display:block; width:360px; line-height:29px;color:#049; overflow:hidden;cursor:pointer;}
+.mthx dd ul li a:hover{ background:#e8f4ff;}
+.mthx dd ul li a,.mthx dd ul li a:visited{text-decoration:none;}
+#shapan{overflow: hidden;}

@@ -1,0 +1,548 @@
+[2019-12-21T13:16:22+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:26:07+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:26:21+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:27:12+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:27:14+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:27:44+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:27:58+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:28:03+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:28:11+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:28:25+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:38:12+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:39:03+08:00][error] [8]未定义变量: _SESSION[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:15]
+[2019-12-21T14:39:19+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:41:03+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:41:10+08:00][sql] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T14:41:10+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001318s ]
+[2019-12-21T14:41:10+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.001054s ]
+[2019-12-21T14:41:11+08:00][error] [8]未定义变量: _SESSION[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:15]
+[2019-12-21T14:43:41+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:43:42+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:43:45+08:00][sql] CONNECT:[ UseTime:0.000723s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T14:43:45+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000725s ]
+[2019-12-21T14:43:45+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000500s ]
+[2019-12-21T14:43:47+08:00][sql] CONNECT:[ UseTime:0.000601s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T14:43:47+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000821s ]
+[2019-12-21T14:43:47+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000493s ]
+[2019-12-21T14:44:14+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:47:17+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:47:30+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T14:47:33+08:00][sql] CONNECT:[ UseTime:0.000626s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T14:47:33+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001145s ]
+[2019-12-21T14:47:33+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000918s ]
+[2019-12-21T14:47:35+08:00][error] [10006]未登陆[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:15]
+[2019-12-21T14:51:37+08:00][error] [0]语法错误: unexpected '}'[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:16]
+[2019-12-21T14:55:13+08:00][error] [10006]未登陆[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:15]
+[2019-12-21T15:00:13+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T15:00:16+08:00][sql] CONNECT:[ UseTime:0.000614s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T15:00:16+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000843s ]
+[2019-12-21T15:00:16+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000791s ]
+[2019-12-21T15:02:20+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T15:02:24+08:00][sql] CONNECT:[ UseTime:0.000640s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T15:02:24+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000787s ]
+[2019-12-21T15:02:24+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000440s ]
+[2019-12-21T15:02:26+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T15:12:31+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T15:12:35+08:00][sql] CONNECT:[ UseTime:0.000687s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T15:12:35+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000787s ]
+[2019-12-21T15:12:35+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000706s ]
+[2019-12-21T15:12:38+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T15:12:45+08:00][sql] CONNECT:[ UseTime:0.000790s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T15:12:45+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001279s ]
+[2019-12-21T15:12:45+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000465s ]
+[2019-12-21T15:12:46+08:00][sql] CONNECT:[ UseTime:0.000573s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T15:12:46+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002712s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.003687s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.001954s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000457s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000405s ]
+[2019-12-21T15:12:46+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.001248s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000789s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000991s ]
+[2019-12-21T15:12:46+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001285s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000528s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000393s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000483s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000395s ]
+[2019-12-21T15:12:46+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000367s ]
+[2019-12-21T15:12:46+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'title',
+  1 => 'login',
+  2 => 'left',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T16:32:21+08:00][error] [0]Class 'app\Session' not found[/Users/hanlu/Documents/www/tp6/app/BaseController.php:54]
+[2019-12-21T16:32:34+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T16:32:38+08:00][sql] CONNECT:[ UseTime:0.000600s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:32:38+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.002275s ]
+[2019-12-21T16:32:38+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000946s ]
+[2019-12-21T16:32:39+08:00][sql] CONNECT:[ UseTime:0.002321s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:32:39+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000762s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000597s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000489s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000513s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000972s ]
+[2019-12-21T16:32:39+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.002677s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000795s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000572s ]
+[2019-12-21T16:32:39+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000766s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000560s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000548s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000338s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000442s ]
+[2019-12-21T16:32:39+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000854s ]
+[2019-12-21T16:32:39+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T16:32:42+08:00][sql] CONNECT:[ UseTime:0.000562s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:32:42+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000900s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000671s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000487s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000399s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000457s ]
+[2019-12-21T16:32:42+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000778s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000690s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000704s ]
+[2019-12-21T16:32:42+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000844s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000475s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000366s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000426s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000424s ]
+[2019-12-21T16:32:42+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000530s ]
+[2019-12-21T16:32:42+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T16:36:15+08:00][sql] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:36:15+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000773s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000415s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000469s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000339s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000358s ]
+[2019-12-21T16:36:15+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000889s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.001519s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000612s ]
+[2019-12-21T16:36:15+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000862s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000391s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000448s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000420s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000385s ]
+[2019-12-21T16:36:15+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000375s ]
+[2019-12-21T16:36:15+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T16:36:17+08:00][sql] CONNECT:[ UseTime:0.002977s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:36:17+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001173s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000586s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000518s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000449s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000747s ]
+[2019-12-21T16:36:17+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.002355s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.001444s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.001294s ]
+[2019-12-21T16:36:17+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001055s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000459s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000495s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000441s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000719s ]
+[2019-12-21T16:36:17+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001389s ]
+[2019-12-21T16:36:17+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T16:36:18+08:00][sql] CONNECT:[ UseTime:0.000785s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T16:36:18+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001200s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.001198s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000503s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000539s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000600s ]
+[2019-12-21T16:36:18+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000809s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000651s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.001260s ]
+[2019-12-21T16:36:18+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001888s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001425s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000538s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000516s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000366s ]
+[2019-12-21T16:36:18+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000331s ]
+[2019-12-21T16:36:18+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:11:42+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-21T17:11:47+08:00][sql] CONNECT:[ UseTime:0.001942s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:47+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.003045s ]
+[2019-12-21T17:11:47+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.002032s ]
+[2019-12-21T17:11:48+08:00][sql] CONNECT:[ UseTime:0.000729s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002726s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000485s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000582s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000535s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000361s ]
+[2019-12-21T17:11:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.001015s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000466s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000422s ]
+[2019-12-21T17:11:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001081s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000584s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000338s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000296s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000289s ]
+[2019-12-21T17:11:48+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000338s ]
+[2019-12-21T17:11:48+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:11:49+08:00][sql] CONNECT:[ UseTime:0.000678s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:49+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001025s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000436s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000498s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000375s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.001009s ]
+[2019-12-21T17:11:49+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000919s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000450s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000432s ]
+[2019-12-21T17:11:49+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001482s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000378s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000318s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000336s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000443s ]
+[2019-12-21T17:11:49+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000343s ]
+[2019-12-21T17:11:49+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:11:50+08:00][sql] CONNECT:[ UseTime:0.000601s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:50+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001528s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000482s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000487s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000402s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000343s ]
+[2019-12-21T17:11:50+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000981s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  `status` = 1 ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.001303s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT * FROM `shop_goods` WHERE (  `status` = 1 ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000676s ]
+[2019-12-21T17:11:50+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000707s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000401s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000446s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000439s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000844s ]
+[2019-12-21T17:11:50+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000443s ]
+[2019-12-21T17:11:50+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:11:52+08:00][sql] CONNECT:[ UseTime:0.000581s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:52+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.004652s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000454s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000533s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000510s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.001238s ]
+[2019-12-21T17:11:52+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.002501s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  `status` = 2 ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000529s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT * FROM `shop_goods` WHERE (  `status` = 2 ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000434s ]
+[2019-12-21T17:11:52+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000917s ]
+[2019-12-21T17:11:52+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000385s ]
+[2019-12-21T17:11:52+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:11:54+08:00][sql] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:11:54+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002149s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000548s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000716s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000646s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000619s ]
+[2019-12-21T17:11:54+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000787s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000416s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000459s ]
+[2019-12-21T17:11:54+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000713s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000373s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000323s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000344s ]
+[2019-12-21T17:11:54+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000305s ]
+[2019-12-21T17:11:54+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
+[2019-12-21T17:26:28+08:00][sql] CONNECT:[ UseTime:0.000540s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:26:28+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.003652s ]
+[2019-12-21T17:26:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000468s ]
+[2019-12-21T17:26:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000540s ]
+[2019-12-21T17:26:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000566s ]
+[2019-12-21T17:26:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000450s ]
+[2019-12-21T17:26:28+08:00][error] [2]Use of undefined constant Db - assumed 'Db' (this will throw an Error in a future version of PHP)[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:91]
+[2019-12-21T17:26:35+08:00][error] [0]语法错误: unexpected ')'[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:91]
+[2019-12-21T17:26:40+08:00][sql] CONNECT:[ UseTime:0.000554s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:26:40+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000966s ]
+[2019-12-21T17:26:40+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000490s ]
+[2019-12-21T17:26:40+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000449s ]
+[2019-12-21T17:26:40+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000685s ]
+[2019-12-21T17:26:40+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000345s ]
+[2019-12-21T17:26:40+08:00][error] [0]Too few arguments to function think\db\BaseQuery::table(), 0 passed and exactly 1 expected[/Users/hanlu/Documents/www/tp6/vendor/topthink/think-orm/src/db/BaseQuery.php:486]
+[2019-12-21T17:44:52+08:00][sql] CONNECT:[ UseTime:0.000724s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:44:52+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001391s ]
+[2019-12-21T17:44:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000679s ]
+[2019-12-21T17:44:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000681s ]
+[2019-12-21T17:44:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.001025s ]
+[2019-12-21T17:44:52+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000677s ]
+[2019-12-21T17:44:52+08:00][error] [0]Call to undefined method think\facade\View::fetch()[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:91]
+[2019-12-21T17:45:22+08:00][sql] CONNECT:[ UseTime:0.000926s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:45:22+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001034s ]
+[2019-12-21T17:45:22+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000455s ]
+[2019-12-21T17:45:22+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000455s ]
+[2019-12-21T17:45:22+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000499s ]
+[2019-12-21T17:45:22+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000488s ]
+[2019-12-21T17:45:22+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:45:32+08:00][sql] CONNECT:[ UseTime:0.000790s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:45:32+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000860s ]
+[2019-12-21T17:45:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000510s ]
+[2019-12-21T17:45:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000804s ]
+[2019-12-21T17:45:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000611s ]
+[2019-12-21T17:45:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000776s ]
+[2019-12-21T17:45:32+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:45:47+08:00][sql] CONNECT:[ UseTime:0.000717s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:45:47+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002486s ]
+[2019-12-21T17:45:47+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000624s ]
+[2019-12-21T17:45:47+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000616s ]
+[2019-12-21T17:45:47+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000639s ]
+[2019-12-21T17:45:47+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000605s ]
+[2019-12-21T17:45:47+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:45:55+08:00][sql] CONNECT:[ UseTime:0.000577s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:45:55+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002476s ]
+[2019-12-21T17:45:55+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.001128s ]
+[2019-12-21T17:45:55+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000692s ]
+[2019-12-21T17:45:55+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000488s ]
+[2019-12-21T17:45:55+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000465s ]
+[2019-12-21T17:45:55+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:48:26+08:00][sql] CONNECT:[ UseTime:0.000567s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:48:26+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000971s ]
+[2019-12-21T17:48:26+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000515s ]
+[2019-12-21T17:48:26+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000674s ]
+[2019-12-21T17:48:26+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000405s ]
+[2019-12-21T17:48:26+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000357s ]
+[2019-12-21T17:48:37+08:00][sql] CONNECT:[ UseTime:0.000629s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:48:37+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000656s ]
+[2019-12-21T17:48:37+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000406s ]
+[2019-12-21T17:48:37+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000446s ]
+[2019-12-21T17:48:37+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000944s ]
+[2019-12-21T17:48:37+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.003300s ]
+[2019-12-21T17:56:48+08:00][sql] CONNECT:[ UseTime:0.000857s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:56:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000725s ]
+[2019-12-21T17:56:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000501s ]
+[2019-12-21T17:56:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.001188s ]
+[2019-12-21T17:56:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000376s ]
+[2019-12-21T17:56:48+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.001389s ]
+[2019-12-21T17:56:59+08:00][sql] CONNECT:[ UseTime:0.000781s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:56:59+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001075s ]
+[2019-12-21T17:56:59+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.001098s ]
+[2019-12-21T17:56:59+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000638s ]
+[2019-12-21T17:56:59+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000505s ]
+[2019-12-21T17:56:59+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000580s ]
+[2019-12-21T17:56:59+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:57:04+08:00][sql] CONNECT:[ UseTime:0.000562s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:57:04+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000816s ]
+[2019-12-21T17:57:04+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000503s ]
+[2019-12-21T17:57:04+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000776s ]
+[2019-12-21T17:57:04+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000843s ]
+[2019-12-21T17:57:04+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000473s ]
+[2019-12-21T17:57:04+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+) ]
+[2019-12-21T17:57:38+08:00][sql] CONNECT:[ UseTime:0.000595s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:57:38+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001184s ]
+[2019-12-21T17:57:38+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.001624s ]
+[2019-12-21T17:57:38+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000534s ]
+[2019-12-21T17:57:38+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000616s ]
+[2019-12-21T17:57:38+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000558s ]
+[2019-12-21T17:57:38+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]
+[2019-12-21T17:58:09+08:00][sql] CONNECT:[ UseTime:0.000601s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:58:09+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000706s ]
+[2019-12-21T17:58:09+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000513s ]
+[2019-12-21T17:58:09+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000480s ]
+[2019-12-21T17:58:09+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000368s ]
+[2019-12-21T17:58:09+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000337s ]
+[2019-12-21T17:58:09+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]
+[2019-12-21T17:58:15+08:00][sql] CONNECT:[ UseTime:0.000559s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:58:15+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000904s ]
+[2019-12-21T17:58:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000453s ]
+[2019-12-21T17:58:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.002785s ]
+[2019-12-21T17:58:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000441s ]
+[2019-12-21T17:58:15+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000348s ]
+[2019-12-21T17:58:15+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]
+[2019-12-21T17:58:20+08:00][sql] CONNECT:[ UseTime:0.000558s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:58:20+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000672s ]
+[2019-12-21T17:58:20+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000616s ]
+[2019-12-21T17:58:20+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000558s ]
+[2019-12-21T17:58:20+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000399s ]
+[2019-12-21T17:58:20+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000486s ]
+[2019-12-21T17:58:20+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]
+[2019-12-21T17:59:28+08:00][sql] CONNECT:[ UseTime:0.001069s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:59:28+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000666s ]
+[2019-12-21T17:59:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000386s ]
+[2019-12-21T17:59:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000426s ]
+[2019-12-21T17:59:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000346s ]
+[2019-12-21T17:59:28+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000326s ]
+[2019-12-21T17:59:28+08:00][error] [0]Call to undefined method think\facade\Db::table()[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:91]
+[2019-12-21T17:59:36+08:00][sql] CONNECT:[ UseTime:0.000721s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T17:59:36+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.000731s ]
+[2019-12-21T17:59:36+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000401s ]
+[2019-12-21T17:59:36+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000474s ]
+[2019-12-21T17:59:36+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000441s ]
+[2019-12-21T17:59:36+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.002426s ]
+[2019-12-21T17:59:36+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000754s ]
+[2019-12-21T17:59:36+08:00][sql] SELECT * FROM `shop_goods` [ RunTime:0.000461s ]
+[2019-12-21T17:59:36+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]
+[2019-12-21T18:00:00+08:00][sql] CONNECT:[ UseTime:0.001693s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-21T18:00:00+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002785s ]
+[2019-12-21T18:00:00+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000988s ]
+[2019-12-21T18:00:00+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000541s ]
+[2019-12-21T18:00:00+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.002431s ]
+[2019-12-21T18:00:00+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000548s ]
+[2019-12-21T18:00:00+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.001185s ]
+[2019-12-21T18:00:00+08:00][sql] SELECT * FROM `shop_goods` [ RunTime:0.000703s ]
+[2019-12-21T18:00:00+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/test.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'name',
+) ]

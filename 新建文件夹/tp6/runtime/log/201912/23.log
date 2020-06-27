@@ -1,0 +1,46 @@
+[2019-12-23T09:10:59+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/login/index.html [ array (
+  0 => 'title',
+) ]
+[2019-12-23T09:11:05+08:00][sql] CONNECT:[ UseTime:0.002124s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-23T09:11:05+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.009419s ]
+[2019-12-23T09:11:05+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.001314s ]
+[2019-12-23T09:11:06+08:00][sql] CONNECT:[ UseTime:0.000872s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-23T09:11:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.003054s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000921s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000469s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000356s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000363s ]
+[2019-12-23T09:11:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.002332s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.001680s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.001661s ]
+[2019-12-23T09:11:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.002295s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000757s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000497s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000837s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000348s ]
+[2019-12-23T09:11:06+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000578s ]
+[2019-12-23T09:11:06+08:00][error] [8192]Non-static method think\View::assign() should not be called statically[/Users/hanlu/Documents/www/tp6/app/controller/Index.php:28]
+[2019-12-23T09:11:34+08:00][sql] CONNECT:[ UseTime:0.000836s ] mysql:host=127.0.0.1;port=3306;dbname=ouyangke;charset=utf8
+[2019-12-23T09:11:34+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.001021s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000518s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000687s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000745s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000532s ]
+[2019-12-23T09:11:34+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.001096s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT COUNT(*) AS think_count FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 [ RunTime:0.000520s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT * FROM `shop_goods` WHERE (  1  ) AND `shop_goods`.`del_time` = 0 ORDER BY `add_time` DESC,`id` DESC LIMIT 0,5 [ RunTime:0.000598s ]
+[2019-12-23T09:11:34+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000926s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000418s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000453s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000657s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001881s ]
+[2019-12-23T09:11:34+08:00][sql] SELECT `name` FROM `shop_cat` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000436s ]
+[2019-12-23T09:11:34+08:00][info] [ VIEW ] /Users/hanlu/Documents/www/tp6/app/view/index/index.html [ array (
+  0 => 'login',
+  1 => 'left',
+  2 => 'title',
+  3 => 'right',
+  4 => 'count',
+  5 => 'p',
+  6 => 'status',
+) ]
